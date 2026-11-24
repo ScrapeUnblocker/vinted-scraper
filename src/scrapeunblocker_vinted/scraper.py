@@ -13,8 +13,8 @@ backoff, so a long collection run keeps going.
 from __future__ import annotations
 
 import time
-from collections.abc import Iterable, Iterator, Sequence
-from typing import Any, Callable
+from collections.abc import Callable, Iterable, Iterator, Sequence
+from typing import Any
 
 from .markets import Market, get_market, market_from_url
 from .models import Category, Item, Listing, SearchPage, Seller

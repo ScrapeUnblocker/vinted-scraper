@@ -1,7 +1,7 @@
 # Vinted Scraper
 
 [![CI](https://github.com/ScrapeUnblocker/vinted-scraper/actions/workflows/ci.yml/badge.svg)](https://github.com/ScrapeUnblocker/vinted-scraper/actions/workflows/ci.yml)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Powered by ScrapeUnblocker](https://img.shields.io/badge/powered%20by-ScrapeUnblocker-6f42c1.svg)](https://scrapeunblocker.com/?utm_source=github&utm_medium=integration&utm_campaign=example-repos)
 
